@@ -13,7 +13,7 @@
     "@instructure/ui-buttons": "^5",
     "@instructure/ui-core": "^5",
     "@instructure/ui-editable": "^5",
-    "@instructure/ui-focusable": "^5", 
+    "@instructure/ui-focusable": "^5",
     "@instructure/ui-form-field": "^5",
     "@instructure/ui-forms": "^5",
     "@instructure/ui-icons": "^5",
@@ -46,7 +46,8 @@
     "react-scripts": "3.0.1",
     "redux": "^4.0.1",
     "redux-actions": "^2.6.4",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "yarn": "^1.22.21"
   },
   "scripts": {
     "start": "react-scripts start",
